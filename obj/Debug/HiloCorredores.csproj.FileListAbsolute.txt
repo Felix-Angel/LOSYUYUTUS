@@ -1,0 +1,7 @@
+C:\Users\garci\source\repos\HiloCorredores\HiloCorredores\bin\Debug\HiloCorredores.exe.config
+C:\Users\garci\source\repos\HiloCorredores\HiloCorredores\bin\Debug\HiloCorredores.exe
+C:\Users\garci\source\repos\HiloCorredores\HiloCorredores\bin\Debug\HiloCorredores.pdb
+C:\Users\garci\source\repos\HiloCorredores\HiloCorredores\obj\Debug\HiloCorredores.csproj.AssemblyReference.cache
+C:\Users\garci\source\repos\HiloCorredores\HiloCorredores\obj\Debug\HiloCorredores.csproj.CoreCompileInputs.cache
+C:\Users\garci\source\repos\HiloCorredores\HiloCorredores\obj\Debug\HiloCorredores.exe
+C:\Users\garci\source\repos\HiloCorredores\HiloCorredores\obj\Debug\HiloCorredores.pdb
