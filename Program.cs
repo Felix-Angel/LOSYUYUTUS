@@ -7,24 +7,27 @@ class Program
     {
         Console.WriteLine("¡Carrera de hilos!");
 
-        // Crear cuatro corredores
+        // Crear seis corredores
         Thread corredorA = new Thread(Correr);
         Thread corredorB = new Thread(Correr);
         Thread corredorC = new Thread(Correr);
         Thread corredorD = new Thread(Correr);
         Thread corredorE = new Thread(Correr);
+        Thread corredorF = new Thread(Correr);
 
         corredorA.Start("Corredor A");
         corredorB.Start("Corredor B");
         corredorC.Start("Corredor C");
         corredorD.Start("Corredor D");
         corredorE.Start("Corredor E");
+        corredorF.Start("Corredor F");
 
         corredorA.Join();
         corredorB.Join();
         corredorC.Join();
         corredorD.Join();
         corredorE.Join();
+        corredorF.Join();
 
         Console.WriteLine("¡Carrera terminada!");
     }
