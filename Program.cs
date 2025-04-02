@@ -12,16 +12,19 @@ class Program
         Thread corredorB = new Thread(Correr);
         Thread corredorC = new Thread(Correr);
         Thread corredorD = new Thread(Correr);
+        Thread corredorE = new Thread(Correr);
 
         corredorA.Start("Corredor A");
         corredorB.Start("Corredor B");
         corredorC.Start("Corredor C");
         corredorD.Start("Corredor D");
+        corredorE.Start("Corredor E");
 
         corredorA.Join();
         corredorB.Join();
         corredorC.Join();
         corredorD.Join();
+        corredorE.Join();
 
         Console.WriteLine("¡Carrera terminada!");
     }

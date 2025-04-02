@@ -12,3 +12,10 @@ C:\Users\camar\OneDrive\Escritorio\losyuytus\LOSYUYUTUS\obj\Debug\HiloCorredores
 C:\Users\camar\OneDrive\Escritorio\losyuytus\LOSYUYUTUS\obj\Debug\HiloCorredores.csproj.CoreCompileInputs.cache
 C:\Users\camar\OneDrive\Escritorio\losyuytus\LOSYUYUTUS\obj\Debug\HiloCorredores.exe
 C:\Users\camar\OneDrive\Escritorio\losyuytus\LOSYUYUTUS\obj\Debug\HiloCorredores.pdb
+C:\Users\moral\Source\Repos\LOSYUYUTUS\bin\Debug\HiloCorredores.exe.config
+C:\Users\moral\Source\Repos\LOSYUYUTUS\bin\Debug\HiloCorredores.exe
+C:\Users\moral\Source\Repos\LOSYUYUTUS\bin\Debug\HiloCorredores.pdb
+C:\Users\moral\Source\Repos\LOSYUYUTUS\obj\Debug\HiloCorredores.csproj.AssemblyReference.cache
+C:\Users\moral\Source\Repos\LOSYUYUTUS\obj\Debug\HiloCorredores.csproj.CoreCompileInputs.cache
+C:\Users\moral\Source\Repos\LOSYUYUTUS\obj\Debug\HiloCorredores.exe
+C:\Users\moral\Source\Repos\LOSYUYUTUS\obj\Debug\HiloCorredores.pdb
